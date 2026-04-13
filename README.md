@@ -65,6 +65,8 @@
 - CareCaller AI – Real-time healthcare voice assistant
 - Student Engagement Analyzer – Detects attention in online classes
 - Pneumonia Detection – Medical imaging AI
+- AI money mentor
+- Multi-modal AI interaction system
 
 ---
 
