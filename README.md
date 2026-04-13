@@ -12,16 +12,52 @@
 
 ## 🧠 Tech Stack
 
-### Languages
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+---
 
-### AI / ML
+### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![NLP](https://img.shields.io/badge/NLP-grey?style=for-the-badge)
 
-### Backend
+---
+
+### 🧠 LLM & GenAI
+![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface)
+
+---
+
+### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST%20APIs-blue?style=for-the-badge)
+
+---
+
+### 📊 Data & Pipelines
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Data Processing](https://img.shields.io/badge/Data%20Processing-grey?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
