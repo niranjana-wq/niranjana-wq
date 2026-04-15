@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=header&text=Niranjana&fontSize=55&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20Neural%20Network&descAlignY=67&descSize=20" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00b4d8&height=120&section=header&text=Niranjana&fontSize=60&animation=scaleIn&stroke=00b4d8&strokeWidth=2" alt="Header">
 </div>
 
 <div align="center">
