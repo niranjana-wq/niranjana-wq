@@ -134,8 +134,7 @@ I work on transforming models into **production-ready applications** with scalab
 </a>
 
 <a href="https://github.com/niranjana-wq">
-  <img src="https://img.shields.io/badge/REPOSITORY-GITHUB-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjana-wq&bg_color=0f2027&color=00f5d4&line=8a2be2&point=ffffff&hide_border=true" />
 
 </div>
 
