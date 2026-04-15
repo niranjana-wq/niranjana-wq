@@ -1,15 +1,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Niranjana%20%7C%20AI%20Engine&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Real-Time%20Intelligent%20Systems&descColor=00F5D4&descAlignY=60"/>
 </div>
-
 ---
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=%3E+Booting+AI+Engine...;%3E+Loading+Models...;%3E+Initializing+Pipelines...;%3E+Connecting+to+LLM...;%3E+System+READY+%E2%9C%94" />
 
 </div>
-
 ---
 
 <div align="center">
