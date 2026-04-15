@@ -62,8 +62,10 @@ I work on transforming models into **production-ready applications** with scalab
 </p>
 
 ### 🧠 LLM & GenAI
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="45"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-8a2be2?style=flat"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00f5d4?style=flat"/>
+  <img src="https://img.shields.io/badge/Transformers-ffcc00?style=flat"/>
 </p>
 
 ### ⚙️ Backend
