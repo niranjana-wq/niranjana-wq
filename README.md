@@ -1,17 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=%3E+Initializing+Niranjana_AI_v1.0...;%3E+Loading+Neural+Weights+%5B██████████%5D+100%25;%3E+Deploying+LLM+Pipeline...;%3E+RAG+System+Connected+%7C+Latency%3A+42ms;%3E+CV+Model+Online+%7C+FPS%3A+30;%3E+Status%3A+READY+%E2%9C%94" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=750&lines=%3E+Booting+Niranjana_AI_Core...;%3E+Loading+Neural+Weights+%5B██████████%5D+100%25;%3E+Initializing+Computer+Vision+Module...;%3E+Connecting+to+LLM+Pipeline...;%3E+RAG+System+Active+%7C+Vector+DB+Synced;%3E+Inference+Engine+ONLINE+%E2%9C%94;%3E+Status%3A+READY+FOR+DEPLOYMENT" />
 
-</div>
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFB3?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/MODEL-LLM%20%7C%20CV%20%7C%20NLP-8a2be2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/BUILD-REAL--TIME%20AI-blue?style=for-the-badge" />
-
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=140&section=header&text=Niranjana%20%7C%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Building%20Real-Time%20Intelligent%20Systems&descColor=00FFB3&descAlignY=75&descSize=16" />
 </div>
 
 ## 💫 About Me
