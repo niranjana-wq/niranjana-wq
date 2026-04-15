@@ -107,6 +107,8 @@ I work on transforming models into **production-ready applications** with scalab
 
 ## 📊 Development Activity
 
+## 📊 Development Activity
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&include_all_commits=true&count_private=true" width="48%" />
