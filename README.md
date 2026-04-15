@@ -1,22 +1,19 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00F5D4&center=true&vCenter=true&width=750&lines=%3E+Booting+Niranjana_AI_Core...;%3E+Loading+Neural+Weights+%5B██████████%5D+100%25;%3E+Initializing+Computer+Vision+Module...;%3E+Connecting+to+LLM+Pipeline...;%3E+RAG+System+Active+%7C+Vector+DB+Synced;%3E+Inference+Engine+ONLINE+%E2%9C%94;%3E+Status%3A+READY+FOR+DEPLOYMENT" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Niranjana%20%7C%20AI%20Engine&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Building%20Real-Time%20Intelligent%20Systems&descColor=00F5D4&descAlignY=65&descSize=16"/>
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=NiranjanaJ|%20AI%20Engine&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Real-Time%20Intelligent%20Systems&descAlignY=60&descColor=00f5d4"/>
-
-</div>
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20CORE-ACTIVE-00f5d4?style=for-the-badge&logo=databricks&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI%20CORE-ACTIVE-00f5d4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MODELS-CV%20%7C%20NLP%20%7C%20LLM-8a2be2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LATENCY-~40ms-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PIPELINE-REAL--TIME-blue?style=for-the-badge"/>
 
 </div>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=%3E+Booting+AI+Engine...;%3E+Loading+Models...;%3E+Initializing+Pipelines...;%3E+Connecting+to+LLM...;%3E+System+Ready+%E2%9C%94" />
+
+</div>
 ## 💫 About Me
 
 I am an **Artificial Intelligence and Machine Learning** student at KPRIET, specializing in researching, building, and deploying intelligent AI algorithms and data-driven solutions. 
