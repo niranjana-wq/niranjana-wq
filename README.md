@@ -1,12 +1,33 @@
-<h1 align="center">Hi 👋, I'm Niranjana</h1>
-<h3 align="center">AI & ML Engineer | Building Real-Time Intelligent Systems</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=120&section=header&text=Niranjana&fontSize=50&animation=fadeIn" alt="Header">
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Full-Stack+Web+Developer;Building+Agentic+Systems;NLP+%26+Computer+Vision" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://portfolio-niranjana-j.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-00b4d8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+  </a>
+</div>
 
 ---
 
-## 🚀 About Me
-- Building AI systems (Computer Vision + NLP)
-- Focused on real-time applications
-- Turning models into usable products
+## 💫 About Me
+
+I am an **Artificial Intelligence and Machine Learning** student at KPRIET, specializing in building seamless bridges between intelligent AI algorithms and modern, responsive web interfaces. 
+
+* 🌍 **Portfolio:** [portfolio-niranjana-j.vercel.app](https://portfolio-niranjana-j.vercel.app/)
+* 🔭 **Current Focus:** Developing intelligent agentic systems.
+* 🚀 **Aspirations:** Actively preparing for Software Development Engineer (SDE) roles for the 2027 batch.
+* 💡 **Mindset:** Driving grassroots AI innovation through efficient, device-level integration.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xeGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB0PWV4Jml0PWNtY3Q9Y3cvLzFTeHBMOEN1c0QxTjZOMk4zL2dpcGh5.gif" width="300" alt="Coding GIF">
+</div>
 
 ---
 
@@ -71,15 +92,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
-## 📌 Featured Projects
-- CareCaller AI – Real-time healthcare voice assistant
-- Student Engagement Analyzer – Detects attention in online classes
-- Pneumonia Detection – Medical imaging AI
-- AI money mentor
-- Multi-modal AI interaction system
+---
+
+## 🏆 Certifications & Achievements
+
+* 🥇 **Prompt Engineering:** IBM SkillsBuild
+* 🥈 **Python 3.4.3:** Spoken Tutorial Project, IIT Bombay (90%)
+* 🥉 **RDBMS PostgreSQL:** Spoken Tutorial Project, IIT Bombay (92.50%)
+* 🚀 **Hackathons & Tech Conclaves:** Active participant in Elan & nVision 2026 (IIT Hyderabad) and the AI Innovation Conclave 2025.
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/niranjanaj/
-- Portfolio: https://portfolio-niranjana-j.vercel.app/
+## 📊 Statistics & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjana-wq&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+</div>
+
+---
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+  <a href="https://portfolio-niranjana-j.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/niranjanaj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/niranjana-wq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" alt="Footer">
+</div>
