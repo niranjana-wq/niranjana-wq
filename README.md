@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=150&section=header&text=Niranjana&fontSize=60&animation=fadeIn&fontAlignY=45&desc=EXPLORING%20THE%20NEURAL%20COSMOS&descAlignY=67&descSize=20" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=2e8b57&height=120&section=header&text=Niranjana&fontSize=65&animation=scaleIn&stroke=2e8b57&strokeWidth=2" alt="Header">
 </div>
 
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6a0dad&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Building+Agentic+Systems;NLP+%26+Computer+Vision;Deep+Learning+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3fb950&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Building+Agentic+Systems;NLP+%26+Computer+Vision;Deep+Learning+Enthusiast" alt="Typing SVG">
   </a>
 </div>
 
 <div align="center">
   <br>
   <a href="https://portfolio-niranjana-j.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-1e90ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-3fb950?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>
 ---
