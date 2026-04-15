@@ -111,7 +111,7 @@ I work on transforming models into **production-ready applications** with scalab
 
 <img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&include_all_commits=true&count_private=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=niranjana-wq&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="48%" />
+<img src="https://streak-stats.demolab.com?user=niranjana-wq&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4" width="48%" />
 
 </div>
 
@@ -122,7 +122,6 @@ I work on transforming models into **production-ready applications** with scalab
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjana-wq&bg_color=0f2027&color=00f5d4&line=8a2be2&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
 <br>
 
 <div align="center">
