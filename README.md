@@ -12,55 +12,66 @@
 
 ## 🧠 Tech Stack
 
-### 💻 Programming
+## 🧠 Tech Stack
 
+### 💻 Programming
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
+---
+
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
-![NLP](https://img.shields.io/badge/NLP-grey?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+</p>
 
 ---
 
 ### 🧠 LLM & GenAI
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface)
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-purple?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="45"/>
+</p>
 
 ---
 
 ### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![REST API](https://img.shields.io/badge/REST%20APIs-blue?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+</p>
 
 ---
 
 ### 📊 Data & Pipelines
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Data Processing](https://img.shields.io/badge/Data%20Processing-grey?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+</p>
 
 ---
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
 ---
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
 
 ## 📌 Featured Projects
 - CareCaller AI – Real-time healthcare voice assistant
