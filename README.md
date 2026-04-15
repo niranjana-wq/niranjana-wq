@@ -99,29 +99,51 @@ I am an **Artificial Intelligence and Machine Learning** student at KPRIET, spec
 
 ---
 
-## 📊 Statistics & Activity
+## 📊 System Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjana-wq&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+
+<img src="https://img.shields.io/badge/SYSTEM-METRICS-0f2027?style=for-the-badge&logo=databricks&logoColor=00f5d4"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjana-wq&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjana-wq&bg_color=0f2027&color=00f5d4&line=8a2be2&point=ffffff&hide_border=true" />
 </div>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤖 System Interface
 
 <div align="center">
-  <a href="https://portfolio-niranjana-j.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/niranjanaj">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/niranjana-wq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+
+<a href="https://portfolio-niranjana-j.vercel.app/">
+  <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00f5d4?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/niranjanaj">
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/niranjana-wq">
+  <img src="https://img.shields.io/badge/REPOSITORY-GITHUB-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=30&section=footer" alt="Footer">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=40&section=footer"/>
+
 </div>
