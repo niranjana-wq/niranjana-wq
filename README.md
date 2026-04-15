@@ -5,6 +5,11 @@
 </div>
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Niranjana%20AI%20Engine&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20Real-Time%20Intelligent%20Systems&descAlignY=60&descColor=00f5d4"/>
+
+</div>
+<div align="center">
+
 <img src="https://img.shields.io/badge/AI%20CORE-ACTIVE-00f5d4?style=for-the-badge&logo=databricks&logoColor=black"/>
 <img src="https://img.shields.io/badge/MODELS-CV%20%7C%20NLP%20%7C%20LLM-8a2be2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LATENCY-~40ms-success?style=for-the-badge"/>
