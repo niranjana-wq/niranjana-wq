@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Full-Stack+Web+Developer;Building+Agentic+Systems;NLP+%26+Computer+Vision" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Building+Agentic+Systems;NLP+%26+Computer+Vision;Deep+Learning+Enthusiast" alt="Typing SVG">
   </a>
 </div>
 
@@ -18,12 +18,12 @@
 
 ## 💫 About Me
 
-I am an **Artificial Intelligence and Machine Learning** student at KPRIET, specializing in building seamless bridges between intelligent AI algorithms and modern, responsive web interfaces. 
+I am an **Artificial Intelligence and Machine Learning** student at KPRIET, specializing in researching, building, and deploying intelligent AI algorithms and data-driven solutions. 
 
 * 🌍 **Portfolio:** [portfolio-niranjana-j.vercel.app](https://portfolio-niranjana-j.vercel.app/)
-* 🔭 **Current Focus:** Developing intelligent agentic systems.
-* 🚀 **Aspirations:** Actively preparing for Software Development Engineer (SDE) roles for the 2027 batch.
-* 💡 **Mindset:** Driving grassroots AI innovation through efficient, device-level integration.
+* 🔭 **Current Focus:** Developing intelligent agentic systems, advancing my skills in Large Language Models (LLMs), and optimizing machine learning pipelines.
+* 🚀 **Aspirations:** Actively preparing for AI/ML Engineer and Software Development (SDE) roles for the 2027 batch.
+* 💡 **Mindset:** Driving grassroots AI innovation through efficient, device-level integration and robust models.
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20xeGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6JnB0PWV4Jml0PWNtY3Q9Y3cvLzFTeHBMOEN1c0QxTjZOMk4zL2dpcGh5.gif" width="300" alt="Coding GIF">
@@ -37,8 +37,6 @@ I am an **Artificial Intelligence and Machine Learning** student at KPRIET, spec
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
@@ -62,7 +60,7 @@ I am an **Artificial Intelligence and Machine Learning** student at KPRIET, spec
 
 ---
 
-### ⚙️ Backend & APIs
+### ⚙️ Model Deployment & APIs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
