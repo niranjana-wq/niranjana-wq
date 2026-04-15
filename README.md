@@ -115,21 +115,39 @@ I work on transforming models into **production-ready applications** with scalab
 
 ---
 
-## 🤖 System Interface
+## 📊 System Metrics
 
 <div align="center">
 
-<a href="https://portfolio-niranjana-j.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00f5d4?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
+<img src="https://img.shields.io/badge/SYSTEM-METRICS-0f2027?style=for-the-badge&logo=databricks&logoColor=00f5d4"/>
 
-<a href="https://www.linkedin.com/in/niranjanaj">
-  <img src="https://img.shields.io/badge/LINKEDIN-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://github.com/niranjana-wq">
-  <img src="https://img.shields.io/badge/GITHUB-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=niranjana-wq&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjana-wq&bg_color=0f2027&color=00f5d4&line=8a2be2&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/INFERENCE-ONLINE-00f5d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-STABLE-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UPTIME-99.9%25-blue?style=for-the-badge"/>
 
 </div>
 
