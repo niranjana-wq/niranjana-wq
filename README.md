@@ -105,21 +105,13 @@ I work on transforming models into **production-ready applications** with scalab
 
 ---
 
-## 📊 System Metrics
+## 📊 Development Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM-METRICS-LIVE-0f2027?style=for-the-badge&logo=databricks&logoColor=00f5d4"/>
+<img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&include_all_commits=true&count_private=true" width="48%" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=niranjana-wq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=niranjana-wq&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4" width="48%" />
+<img src="https://streak-stats.demolab.com?user=niranjana-wq&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" width="48%" />
 
 </div>
 
