@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=00ffcc&height=120&section=header&text=Niranjana&fontSize=65&animation=fadeIn&stroke=00ffcc&strokeWidth=2&desc=[Class:%20AI_Engineer%20%7C%20Conf:%200.99]&descAlignY=75&descSize=18" alt="Header">
-</div>
 
-<div align="center">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00ffcc&center=true&vCenter=true&width=500&lines=Extracting+features...;Applying+convolutions...;Object+detected:+Future+SDE;Optimizing+loss+function..." alt="Typing SVG">
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=700&lines=%3E+Initializing+Niranjana_AI_v1.0...;%3E+Loading+Neural+Weights+%5B██████████%5D+100%25;%3E+Deploying+LLM+Pipeline...;%3E+RAG+System+Connected+%7C+Latency%3A+42ms;%3E+CV+Model+Online+%7C+FPS%3A+30;%3E+Status%3A+READY+%E2%9C%94" />
 
+</div>
 <div align="center">
-  <br>
-  <a href="https://portfolio-niranjana-j.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-00ffcc?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge">
-  </a>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFB3?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/MODEL-LLM%20%7C%20CV%20%7C%20NLP-8a2be2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-REAL--TIME%20AI-blue?style=for-the-badge" />
+
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=140&section=header&text=Niranjana%20%7C%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Building%20Real-Time%20Intelligent%20Systems&descColor=00FFB3&descAlignY=75&descSize=16" />
 </div>
 
 ## 💫 About Me
