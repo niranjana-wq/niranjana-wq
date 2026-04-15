@@ -126,15 +126,15 @@ I work on transforming models into **production-ready applications** with scalab
 <div align="center">
 
 <a href="https://portfolio-niranjana-j.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-00f5d4?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00f5d4?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 <a href="https://www.linkedin.com/in/niranjanaj">
-  <img src="https://img.shields.io/badge/LINKEDIN-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/niranjana-wq">
-  <img src="https://img.shields.io/badge/GITHUB-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REPOSITORY-GITHUB-0f2027?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
